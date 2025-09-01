@@ -95,3 +95,5 @@ terra-key.pub
 terra-key
 terraform/apps/helm-values/.*
 
+.env
+
